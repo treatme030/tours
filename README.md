@@ -23,4 +23,6 @@
 <button onClick={fetchTours} className="btn">refresh</button>
 ```
 
+![ptour](https://user-images.githubusercontent.com/74355328/147525060-c29b909e-77e3-46e8-80d5-8b2265371736.gif)
+
 <참고> Coding Addict
